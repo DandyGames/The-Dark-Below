@@ -1,0 +1,1 @@
+Scraps of Cloth,Shredded Cape,-,ITM,9;Ripped Cape,-,Shredded Cape,ITM,3;Sturdy Pole,-,Splintered Wood,ITM,1;Health Up,-,-,HEL,10,0;

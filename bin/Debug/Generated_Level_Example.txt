@@ -1,0 +1,13 @@
+Key:
+	S - Start
+	E - End
+	T - Trap
+	M - Monster
+	D - Deadend
+	N - Nothing
+	P - Pathway split
+
+
+
+SNMNTPND
+NMNE

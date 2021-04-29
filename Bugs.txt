@@ -1,0 +1,5 @@
+Bugs:
+
+Game Stopped around score 700
+Enemies don't feel difficult - They are harder now
+Unlocks stop occuring after charge attack - fixed, due to elseif nature, needed a condition that confirmed that it hadn't already been unlocked (smh)
