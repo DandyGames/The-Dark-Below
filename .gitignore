@@ -6,7 +6,6 @@ obj
 *.opensdf
 *.opendb
 *.sdf
-*.sln
 *.suo
 *.xcodeproj
 *.xcworkspace
