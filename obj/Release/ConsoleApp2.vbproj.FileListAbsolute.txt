@@ -1,0 +1,10 @@
+C:\VS Projects\The-Dark-Below\bin\Release\The Dark Below.exe.config
+C:\VS Projects\The-Dark-Below\bin\Release\The Dark Below.exe
+C:\VS Projects\The-Dark-Below\bin\Release\The Dark Below.pdb
+C:\VS Projects\The-Dark-Below\bin\Release\The Dark Below.xml
+C:\VS Projects\The-Dark-Below\obj\Release\ConsoleApp2.vbprojResolveAssemblyReference.cache
+C:\VS Projects\The-Dark-Below\obj\Release\TheDarkBelow.Resources.resources
+C:\VS Projects\The-Dark-Below\obj\Release\ConsoleApp2.vbproj.GenerateResource.Cache
+C:\VS Projects\The-Dark-Below\obj\Release\The Dark Below.exe
+C:\VS Projects\The-Dark-Below\obj\Release\The Dark Below.xml
+C:\VS Projects\The-Dark-Below\obj\Release\The Dark Below.pdb
