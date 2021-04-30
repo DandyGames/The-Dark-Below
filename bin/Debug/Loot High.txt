@@ -1,1 +1,0 @@
-Health Up +,-,-,HEL,15;Ripped Cape,-,Shredded Cape,ITM,3;Sturdy Pole,-,Splintered Wood,ITM,1;Acid Potion,-,-,DMG,10;Monster Guts,Monster Parts,Monster Blood,ITM,0;

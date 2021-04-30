@@ -1,1 +1,0 @@
-Crumbling Bone,-,Dust,ITM,9;Dust,Crumbling Bone,-,ITM,9;Monster Guts,Monster Parts,Monster Blood,ITM,0;Sturdy Pole,-,Splintered Wood,ITM,1;Scraps of Cloth,Shredded Cape,-,ITM,9;

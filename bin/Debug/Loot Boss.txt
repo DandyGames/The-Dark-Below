@@ -1,1 +1,0 @@
-Ripped Cape,-,Shredded Cape,ITM,3;Health Up +,-,-,HEL,15;Health Up ++,-,-,HEL,20;Melting Potion,-,-,DMG,15;Monster Parts,-,Monster Guts,ITM,2;

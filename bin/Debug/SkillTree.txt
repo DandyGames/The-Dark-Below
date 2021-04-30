@@ -1,1 +1,0 @@
-Attack Up,STAT,-,5,0,Available;Defense Up,STAT,-,5,0,Available;Mana Total Up,STAT,-,5,0,Available;Charge Attack,ABL,Attack Up,3,0,-;Defended Strike,ABL,Defense Up,3,0,-;Ranged Attack,ABL,Defended Strike/Charge Attack,5,0,-;Double Hit,ABL,Mana Up,5,0,-;Super Mana Up,STAT,Double Hit,5,0,-;Slap Attack,ABL,Ranged Attack,7,0,-;
